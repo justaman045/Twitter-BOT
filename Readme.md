@@ -1,4 +1,4 @@
-# PyScript - A Twitter Bot
+# Dragoon - A Twitter Bot
 
 Twitter Bot Created for Retweeting the Tweets Made on Twitter. This BOT is made with Python and will Re - tweet the tweets. But first Include These two hashtags in your tweet else there will be a low Possibility of Re-tweeting the Tweets. Ofcourse I will not be Sitting and selecting a Re - tweet option in your tweet. So I targeted the hashtag feature of twitter.
 
