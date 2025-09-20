@@ -19,5 +19,5 @@ six==1.15.0
 toml==0.10.1
 tweepy==3.9.0
 urllib3==1.26.6
-virtualenv==20.0.27
+virtualenv==20.26.6
 Werkzeug==1.0.1
