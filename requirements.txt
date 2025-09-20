@@ -20,4 +20,4 @@ toml==0.10.1
 tweepy==3.9.0
 urllib3==2.5.0
 virtualenv==20.26.6
-Werkzeug==1.0.1
+Werkzeug==3.0.6
